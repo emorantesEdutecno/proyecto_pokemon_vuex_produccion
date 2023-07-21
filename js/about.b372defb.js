@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkproyecto_pokemon_vuex"]=self["webpackChunkproyecto_pokemon_vuex"]||[]).push([[443],{782:function(e,n,o){o.r(n),o.d(n,{default:function(){return f}});var u=o(252);const t={class:"about"},r=(0,u._)("h1",null,"This is an about page",-1),a=[r];function c(e,n){return(0,u.wg)(),(0,u.iD)("div",t,a)}var s=o(744);const i={},p=(0,s.Z)(i,[["render",c]]);var f=p}}]);
+//# sourceMappingURL=about.b372defb.js.map
